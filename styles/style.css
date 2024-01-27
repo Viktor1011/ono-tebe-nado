@@ -43,6 +43,7 @@
     height: 105px;
 }
 
+
 .address {  
     line-height: 1.35;
     letter-spacing: 0.18px;
@@ -137,7 +138,6 @@
 .bet-button {
     background-color: transparent;
     background-repeat: no-repeat;
-    border: none;
     cursor: pointer;
     overflow: hidden; 
     color: #FFF;
