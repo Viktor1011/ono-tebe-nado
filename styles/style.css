@@ -43,8 +43,7 @@
     height: 105px;
 }
 
-
-.address {  
+.address {
     line-height: 1.35;
     letter-spacing: 0.18px;
     margin: 5px 25.48px 2px 184px;
@@ -139,7 +138,7 @@
     background-color: transparent;
     background-repeat: no-repeat;
     cursor: pointer;
-    overflow: hidden; 
+    overflow: hidden;
     color: #FFF;
     border: 1px solid #FFF;
     padding: 12px 32px 11px 31px;
