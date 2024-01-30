@@ -7,7 +7,7 @@
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    padding: 92px 50px 0 24px;
+    padding: 92px 82px 0 24px;
     text-underline-offset: 4px;
 }
 
@@ -53,7 +53,6 @@
     line-height: 1.35;
     letter-spacing: 0.18px;
     font-style: normal;
-    margin-right: 25.48px; /*прижал .address вправо в .header, тут ему дал margin. Иначе никак, в макете отступ*/
 }
 
 .cover {
